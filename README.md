@@ -16,3 +16,6 @@ Lab-5 & Lab-6: SIR Model
 
 Lab-7 & Lab-8: Random Walk Model
 
+Lab-9: 2D Diffusion
+
+Lab-10: Adoption of Products Using Cellular Automata
